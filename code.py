@@ -8,10 +8,10 @@ def percentage(part,whole):
 	return 100* float(part)/float(whole)
 
 # keys and tokens from the Twitter Dev Console
-consumerKey='mgbOcqvdyJD3uh5pPQfPKtsWM'
-consumerSecret='3DSpBeQB2IegVzFICK6a08w3TTCoNKFQ6H7q6WafBQgUirtJpC'
-accessToken='923927317470093312-DhzXggAVIzISaCbtVEadhWtViYXaooN'
-accessTokenSecret='l5SnMQuJuWP1oCEbIqAdWkLydR2qr7VWTKj2pGoUIhTVN'
+consumerKey='********************'
+consumerSecret='**********************'
+accessToken='***************************'
+accessTokenSecret='*******************************'
 
 # attempt authentication
 try:
